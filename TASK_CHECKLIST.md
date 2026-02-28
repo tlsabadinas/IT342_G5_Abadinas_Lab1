@@ -31,6 +31,61 @@ Refactor: Move Logic to AuthController - 8331d80
 Fix: Update Database Connection URL - ce6eeca
 Fix: Update Authentication Endpoints - 1698da0
 
+5. Mobile Application – Android Kotlin
+Project Setup & Permissions
+Add Internet User Permission – b6a7255
+
+Add Network Security Config – ef92a15
+
+Register Screen
+Develop Register Layout – 3fc29aa
+
+Implement Register Functionalities – c045ba2
+
+Login Screen
+Develop Login Layout – a5dd4b9
+
+Implement Login Functionalities – 7ab5ef5
+
+Dashboard/Profile Screen (Protected)
+Develop Profile Layout – 9aec3b1
+
+Implement Profile Functionalities – 2519381
+
+Connection to Spring Boot Backend
+Configure API Connectivity – (Implemented via network security and functionality commits)
+
 IN-PROGRESS
 1. Documentation
 Add readme and task checklist
+
+5. Mobile Application – Android Kotlin
+Project Setup & Permissions
+Add Internet User Permission – b6a7255
+
+Add Network Security Config – ef92a15
+
+Register Screen
+Develop Register Layout – 3fc29aa
+
+Implement Register Functionalities – c045ba2
+
+Login Screen
+Develop Login Layout – a5dd4b9
+
+Implement Login Functionalities – 7ab5ef5
+
+Dashboard/Profile Screen (Protected)
+Develop Profile Layout – 9aec3b1
+
+Implement Profile Functionalities – 2519381
+
+Connection to Spring Boot Backend
+Configure API Connectivity – (Implemented via network security and functionality commits)
+
+Next Steps (Remaining Tasks):
+To fully satisfy the original requirements, you should ensure the following are also tracked:
+
+Logout Functionality: Ensure there is a task for clearing the JWT token and navigating back to the login screen.
+
+Documentation: Finish the "In-Progress" task of adding the README.md and this updated task checklist to your repository.
